@@ -1,0 +1,40 @@
+{
+    "data":[
+        {
+            "id" : "1",
+            "title" : "Daisy Jones & The Six",
+            "author" : "Taylor Jenkins Reid",
+            "year": "2019"
+        },
+        {
+            "id" : "2",
+            "title" : "The Nickel Boys",
+            "author" : "Colson Whitehead",
+            "year": "2019"
+        },
+        {
+            "id" : "3",
+            "title" : "The Huntress",
+            "author" : "Kate Quinn",
+            "year": "2019"
+        },
+        {
+            "id" : "4",
+            "title" : "City of Girls",
+            "author" : "Elizabeth Gilbert",
+            "year": "2019"
+        },
+        {
+            "id" : "5",
+            "title" : "The Giver of Stars",
+            "author" : "Jojo Moyes",
+            "year": "2019"
+        },
+        {
+            "id" : "6",
+            "title" : "The Water Dancer",
+            "author" : "Ta-Nehisi Coates",
+            "year": "2019"
+        },
+    ]
+}
