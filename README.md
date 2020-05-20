@@ -23,4 +23,6 @@ cd ..
 npx react-native run-ios
 ```
 
+### Author
+- Chairina Marsya
 *GoodLuck*
