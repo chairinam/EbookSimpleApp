@@ -3,14 +3,14 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 
-import Splash from './screens/splash/Splash';
-import Home from './screens/main/home/Home';
-import Category from './screens/main/category/Category';
-import Library from './screens/main/library/Library';
-import Profile from './screens/main/profile/Profile';
-import FictionBook from './screens/book/FictionBook';
-import HisFictionBook from './screens/book/HisFictionBook';
-import FictionAxios from './screens/book/FictionAxios';
+import Splash from './src/screens/splash/Splash';
+import Home from './src/screens/main/home/Home';
+import Category from './src/screens/main/category/Category';
+import Library from './src/screens/main/library/Library';
+import Profile from './src/screens/main/profile/Profile';
+import FictionBook from './src/screens/book/FictionBook';
+import HisFictionBook from './src/screens/book/HisFictionBook';
+import FictionAxios from './src/screens/book/FictionAxios';
 
 const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();
@@ -92,7 +92,6 @@ export default function App() {
   return (
     <NavigationContainer>
       <MyStack />
-      {/* <MyTabs/> */}
     </NavigationContainer>
   );
 }
