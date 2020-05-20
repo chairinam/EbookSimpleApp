@@ -24,7 +24,4 @@ cd ..
 npx react-native run-ios
 ```
 
-*GoodLuck
-
-Author :
-*chairinamarsya*
+*GoodLuck*
