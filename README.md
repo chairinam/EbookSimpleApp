@@ -1,7 +1,28 @@
 # EbookSimpleApp
 
 This simple app built from React Native framework. Features inside consist of splash screen, homescreen, chart, and profile screen.
-Methods that I used in this app consist of React Navigation, Redux, and Axios as service.
+> I used React Navigation, Redux, and Axios as service.
 
-Hope this simple app help you as beginner in react native. Please let me know if there're some mistakes or need improvement.
-Thanks. Stay Cheers!
+## Getting Started
+
+### Prerequisites and installing
+Use 'npm install' to install all modules listes as dependencies in **package.json**
+
+### Running
+To run metro bundle and emulator :
+'npx react-native start'
+
+- Android emulator:
+'npx react-native run-android'
+
+- IOS emulator:
+install pod :
+'cd ios'
+'pod install'
+'cd ..'
+'npx react-native run-ios'
+
+*GoodLuck
+
+Author :
+*chairinamarsya*
