@@ -16,7 +16,6 @@ To run metro bundle and emulator :
 `npx react-native run-android`
 
 - IOS emulator:
-install pod :
 ```
 cd ios
 pod install
