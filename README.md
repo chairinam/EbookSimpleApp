@@ -24,5 +24,5 @@ npx react-native run-ios
 ```
 
 ### Author
-- Chairina Marsya-
-*GoodLuck*
+- Chairina Marsya - *GoodLuck*
+- Awesome assets that I used from [Free Remote Work Illustrations by Oblik Studio](https://gumroad.com/l/remote-work-illustrations-by-oblik-studio) 
