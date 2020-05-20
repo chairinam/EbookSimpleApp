@@ -24,5 +24,5 @@ npx react-native run-ios
 ```
 
 ### Author
-- Chairina Marsya
+- Chairina Marsya-
 *GoodLuck*
