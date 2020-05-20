@@ -6,21 +6,23 @@ This simple app built from React Native framework. Features inside consist of sp
 ## Getting Started
 
 ### Prerequisites and installing
-Use 'npm install' to install all modules listes as dependencies in **package.json**
+Use `npm install` to install all modules listes as dependencies in **package.json**
 
 ### Running
 To run metro bundle and emulator :
-'npx react-native start'
+`npx react-native start`
 
 - Android emulator:
-'npx react-native run-android'
+`npx react-native run-android`
 
 - IOS emulator:
 install pod :
-'cd ios'
-'pod install'
-'cd ..'
-'npx react-native run-ios'
+```
+cd ios
+pod install
+cd ..
+npx react-native run-ios
+```
 
 *GoodLuck
 
